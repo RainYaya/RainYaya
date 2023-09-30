@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on some personal projects using C#, WPF, .NET and React
+- 🌱 I’m currently learning Next.js and TypeScript
+- 📫 How to reach me: eslovelqy@gmail.com
+- ⚡ Fun fact: I love running and Japanese
