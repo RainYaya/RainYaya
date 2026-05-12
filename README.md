@@ -15,3 +15,5 @@
 ### 📫 Contact Me
 
 - **Location:** Chiba / Tokyo, Japan 🇯🇵
+
+お幸せになれますように
